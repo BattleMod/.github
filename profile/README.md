@@ -1,5 +1,6 @@
 # BattleMod
-BattleMod is a modding project for a popular blocky shooter game.  
+BattleMod is a modding project for BattleBit remastered.  
+This project is **not** using the server API, it's injecting code using BepInEx.  
 
 Issues regarding this project should be submitted here: https://github.com/BattleMod/.github/issues
 
